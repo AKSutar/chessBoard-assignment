@@ -1,0 +1,12 @@
+
+#mainChessBoard {
+    width: 240px;
+    height: 240px;
+    border: 2px solid black;
+}
+
+span {
+    width: 30px;
+    height: 30px;
+    float: left;
+}
